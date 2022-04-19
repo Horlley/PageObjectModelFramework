@@ -54,42 +54,40 @@ class Test_CarWale(Basetest):
             print("Car title is: " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
 
-
-    @pytest.mark.parametrize("carBrand, carTitle", dataProvider.get_data("NewCarsTest"))
+    @pytest.mark.parametrize("carBrand,carTitle",
+                             dataProvider.get_data("NewCarsTest"))
     def test_printCarNamesandPrices(self, carBrand, carTitle):
-        log.logger.info(" ************** Inside Car Names and Prices Text **********************")
+        log.logger.info("******Inside Car Names and Prices Test*********")
         home = HomePage(self.driver)
         car = CarBase(self.driver)
 
-        print("Car brnd is: ", carBrand)
-        if carBrand == ["BMW"]:
+        print("Car brand is : ", carBrand)
+        if carBrand == "BMW":
             home.gotoNewCars().selectBMW()
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrices()
-
         elif carBrand == "Hyundai":
             home.gotoNewCars().selectHyundai()
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrices()
-
         elif carBrand == "Honda":
             home.gotoNewCars().selectHonda()
-
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrices()
-
         elif carBrand == "Toyota":
             home.gotoNewCars().selectToyota()
-
             title = car.getCarTitle()
-            print("Car title is: " + title)
+            print("Car Title is : " + title)
             assert title == carTitle, "Not on the correct page as title is not matching"
             car.getCarNameAndPrices()
 
-        time.sleep(3)
+    time.sleep(2)
+
+    # pytest .\test_carwale.py --alluredir="../Reports"
+    # allure serve "../Reports"
