@@ -1,0 +1,167 @@
+2022-04-14 15:39:50,913 - test_carwale.py:[24] - [INFO] -  ************** Inside Select Cars Text **********************
+2022-04-14 15:40:02,714 - test_carwale.py:[24] - [INFO] -  ************** Inside Select Cars Text **********************
+2022-04-14 15:40:15,090 - test_carwale.py:[24] - [INFO] -  ************** Inside Select Cars Text **********************
+2022-04-14 15:40:29,179 - test_carwale.py:[24] - [INFO] -  ************** Inside Select Cars Text **********************
+2022-04-14 16:10:42,077 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:10:42,110 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:10:43,398 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:10:43,446 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:10:44,929 - BasePage.py:[34] - [INFO] - Clicando no elemento: bmw_XPATH
+2022-04-14 16:10:55,147 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:10:55,181 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:10:56,480 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:10:56,524 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:10:57,998 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:11:10,790 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:11:10,823 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:11:12,106 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:11:12,149 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:11:12,945 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:11:22,853 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:11:22,891 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:11:24,177 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:11:24,220 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:11:25,681 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:13:29,871 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:13:29,907 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:13:31,203 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:13:31,253 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:13:32,654 - BasePage.py:[34] - [INFO] - Clicando no elemento: bmw_XPATH
+2022-04-14 16:13:43,577 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:13:43,610 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:13:44,887 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:13:44,929 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:13:46,420 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:13:56,015 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:13:56,047 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:13:57,343 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:13:57,390 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:13:58,252 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:14:10,654 - test_carwale.py:[59] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:14:10,696 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:14:11,971 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:14:12,017 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:14:13,463 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:17:10,508 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:17:22,149 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:17:22,183 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:17:23,477 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:17:23,524 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:17:24,972 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:17:37,942 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:17:37,978 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:17:39,277 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:17:39,322 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:17:40,741 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:17:54,401 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:17:54,437 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:17:55,733 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:17:55,778 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:17:56,588 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:18:44,613 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:18:56,996 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:18:57,030 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:18:58,324 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:18:58,370 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:18:59,832 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:19:09,832 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:19:09,876 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:19:11,188 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:19:11,236 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:19:12,805 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:19:23,805 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:19:23,846 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:19:25,143 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:19:25,188 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:19:26,014 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:22:16,683 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:22:28,242 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:22:28,277 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:22:29,578 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:22:29,631 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:22:31,057 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:22:41,541 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:22:41,584 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:22:42,878 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:22:42,925 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:22:43,685 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:22:53,786 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:22:53,823 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:22:55,111 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:22:55,158 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:22:56,581 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:23:35,697 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:23:35,743 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:23:37,033 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:23:37,080 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:23:38,488 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:23:48,454 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:23:48,489 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:23:49,779 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:23:49,824 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:23:51,282 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:24:01,363 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:24:01,397 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:24:27,414 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:24:39,094 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:24:39,129 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:24:40,403 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:24:40,449 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:24:41,957 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:25:30,198 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:25:30,231 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:25:31,533 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:25:31,604 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:25:32,364 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:26:48,370 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:26:48,408 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:26:49,693 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:26:49,754 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:26:51,232 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:28:36,234 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:28:47,807 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:28:47,843 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:28:49,141 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:29:07,756 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:29:07,794 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:29:09,079 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:29:09,125 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:29:10,543 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:30:50,686 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:31:02,534 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:31:02,573 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:31:03,887 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:31:03,931 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:31:05,315 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:31:50,475 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:32:01,706 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:32:01,743 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:32:03,040 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:32:03,087 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:32:04,571 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:32:14,512 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:32:14,545 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:32:15,839 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:32:15,884 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:32:17,470 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:32:28,298 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:32:28,331 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:32:29,627 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:32:29,671 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:32:30,431 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
+2022-04-14 16:34:09,365 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:34:21,353 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:34:21,388 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:34:22,677 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:34:22,722 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:34:24,195 - BasePage.py:[34] - [INFO] - Clicando no elemento: hyunday_XPATH
+2022-04-14 16:34:34,122 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:34:34,157 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:34:35,444 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:34:35,490 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:34:37,027 - BasePage.py:[34] - [INFO] - Clicando no elemento: toyota_XPATH
+2022-04-14 16:34:46,570 - test_carwale.py:[60] - [INFO] -  ************** Inside Car Names and Prices Text **********************
+2022-04-14 16:34:46,606 - BasePage.py:[34] - [INFO] - Clicando no elemento: idioma_XPATH
+2022-04-14 16:34:47,893 - BasePage.py:[82] - [INFO] - Movel para o elemento: newCar_XPATH
+2022-04-14 16:34:47,938 - BasePage.py:[34] - [INFO] - Clicando no elemento: findNewCars_XPATH
+2022-04-14 16:34:49,374 - BasePage.py:[34] - [INFO] - Clicando no elemento: honda_XPATH
